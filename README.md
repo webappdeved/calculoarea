@@ -1,11 +1,11 @@
 # 🎯 Proyecto: Calculadora de Área Modular y Diana ASCII — LPR 2026
 
-## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
+## Escuela de Educación Secundaria Técnica N° 10 "Skeleton Crew" — Vicente López
 
-* **Curso:** 5° Año — Especialidad Computación / Programación
+* **Curso:** 5° Año — Especialidad Informática / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
-* **Estudiante:** Lopilato Luisana
+* **Estudiante:** Jod Na Nawood
 
 ---
 
@@ -17,7 +17,7 @@ Esta actividad aplica un enfoque estructurado y de diseño **Top-Down** (de lo g
 
 ## 👥 Integrantes (Entrega Individual)
 
-* **Estudiante:** Lopilato Luisana
+* **Estudiante:** Jod Na Nawood
 * **Curso / Grupo:** 5° — Grupo A/B
 * **Especialidad:** Técnico en Informática/Programación
 
